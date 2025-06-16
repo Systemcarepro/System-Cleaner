@@ -1,6 +1,7 @@
-
-    <h2>SystemCare Pro - Advanced PC Optimization Tool</h2>
+ <div class="section">
+    <h2><a href="https://digitalbulls.com/system-care-pro.php">SystemCare Pro - Advanced PC Optimization Tool</a></h2>
     <p>🚀 One-click solution to clean, repair, and accelerate your computer</p>
+
   </div>
 
   <div class="section">
@@ -37,7 +38,7 @@
   <div class="section">
     <h2>Download & Installation</h2>
     <ol>
-      <li>Download the latest version from the <strong>Releases Section</strong></li>
+      <li><a href="https://systemcarepro.net/">Download the latest version from the</a> <strong>Releases Section</strong></li>
       <li>Run <strong>SystemCarePro_Setup.exe</strong></li>
       <li>Follow the installation wizard</li>
       <li>Launch the application and click <strong>"Scan Now"</strong></li>
