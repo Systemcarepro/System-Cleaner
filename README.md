@@ -44,3 +44,6 @@
       <li>Launch the application and click <strong>"Scan Now"</strong></li>
     </ol>
 </div>
+![Version](https://img.shields.io/github/v/release/yourusername/SystemCare-Pro?label=Latest%20Version)
+![License](https://img.shields.io/github/license/yourusername/SystemCare-Pro)
+
