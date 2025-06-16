@@ -1,12 +1,45 @@
-Why System care Pro?
-User-friendly: This user-friendly PC cleaner is free from any hassle. The simple and vibrant interface, makes you do things in the easiest way possible.
-Comprehensive solution: Performance, security and efficiency- you can get everything streamlined in the best way to enjoy a faster and smoother computing life.
-Real-time performance: The advanced features of System Care Pro helps to boost speed, free up space and prolong your computer’s health in just a click.
-24 x 7 support: Knowledgeable and expert technicians are available 24x7 to assist you through any difficulties. Call, chat or email for quick diagnosis.
-Featrues 
-Full Scanning: Scan your PC in and out with one click. You can choose which areas on your computer to scan and clean.
-Easy install: System care pro gets installed in fraction of minutes. Enjoy smooth and trouble-free installation process.
-Defragment: Defragment and release more space for faster computing. Now you can organize your scattered data.
-Registry cleanup: Remove or repair faulty configurations and registry files issues the easy way with System care pro.
-Secure erase: Securely erase files without leaving any trace behind and keep redundancy of the system at bay.
-Manage PC health: Keep the computer’s performance smoother by minimizing the chance of a computer freeze or crash.
+
+    <h2>SystemCare Pro - Advanced PC Optimization Tool</h2>
+    <p>🚀 One-click solution to clean, repair, and accelerate your computer</p>
+  </div>
+
+  <div class="section">
+    <h2>Key Features</h2>
+    <ul>
+      <li><span class="highlight">Registry Cleaner</span> - Fixes invalid entries to prevent crashes & errors</li>
+      <li><span class="highlight">Junk File Remover</span> - Deletes temporary files, caches, and obsolete data</li>
+      <li><span class="highlight">Privacy Protector</span> - Erases browsing history, cookies, and activity traces</li>
+      <li><span class="highlight">Startup Optimizer</span> - Reduces boot time by managing startup programs</li>
+      <li><span class="highlight">Real-Time Monitoring</span> - Continuously optimizes RAM and CPU usage</li>
+      <li><span class="highlight">Driver Updater</span> - Keeps system drivers current for maximum stability</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Why Choose SystemCare Pro?</h2>
+    <ul>
+      <li>🔹 <strong>30% Faster Performance</strong> - Optimizes system resources efficiently</li>
+      <li>🔹 <strong>5GB+ Storage Recovery</strong> - Removes gigabytes of unnecessary files</li>
+      <li>🔹 <strong>Malware Protection</strong> - Blocks potentially harmful junk files</li>
+      <li>🔹 <strong>User-Friendly Interface</strong> - Simple one-click operation for all users</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>System Requirements</h2>
+    <ul>
+      <li>• <strong>OS:</strong> Windows 10/11 (32-bit & 64-bit)</li>
+      <li>• <strong>RAM:</strong> 1GB minimum (2GB recommended)</li>
+      <li>• <strong>Storage:</strong> 50MB install space + 500MB for operations</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Download & Installation</h2>
+    <ol>
+      <li>Download the latest version from the <strong>Releases Section</strong></li>
+      <li>Run <strong>SystemCarePro_Setup.exe</strong></li>
+      <li>Follow the installation wizard</li>
+      <li>Launch the application and click <strong>"Scan Now"</strong></li>
+    </ol>
+</div>
